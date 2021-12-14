@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ramsiii
+- 👀 I’m interested in learning Python, Javascript, and other coding languages.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on projects integrating programming and microbiology.
+- 📫 How to reach me: rrimkeit@hotmail.com
