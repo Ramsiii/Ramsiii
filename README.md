@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ramsiii
 - 👀 I’m interested in learning Python, Javascript, PHP, SQL, and other languages.
-- 🌱 I’m currently learning Python, Html, CSS, and basic Javascript.
+- 🌱 I’m currently learning Python, SQL, Html, CSS, and basic Javascript.
 - 💞️ I’m looking to collaborate on projects integrating programming and microbiology.
 - 📫 How to reach me: r rimkeit (at) h otmail (dot) c om
