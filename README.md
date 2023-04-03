@@ -4,4 +4,5 @@
 - 👀 My current learning roadmap includes Python, JavaScript, HTML, CSS, XPath, PHP, SQL, and other languages.
 - 🌱 I’m currently focusing mainly on learning Python outside of work.
 - 💞️ I’m looking to collaborate on projects integrating programming and microbiology or marketing.
-- 📫 How to reach me: r rimkeit (at) h otmail (dot) c om
+- 🧗‍♂️ In my freetime, I enjoy spending time with my kids, rock climbing, reading, hiking, etc.
+- 📫 How to reach me: r rimkeit (at) h otmail (dot) c o m
