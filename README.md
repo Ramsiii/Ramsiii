@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ramsiii
 - 👨‍💻 My current job title: Assoc. Content Analyst and Knowledge Engineer.
 - 🤖 My job: Structured Data Extraction using Xpath, Regular Expressions, and JavaScript as well as manual quality assurance testing.
-- 👀 My current learning roadmap includes Python, C, JavaScript, HTML, CSS, XPath, PHP, SQL, and other languages.
+- 👀 My current learning roadmap includes Python, C, JavaScript, HTML, CSS, XPath, SQL, and other languages.
 - 🌱 I’m currently focusing mainly on learning JavaScript and Python outside of work.
 - 💞️ I’m looking to collaborate on projects integrating programming and microbiology or marketing.
 - 🧗‍♂️ In my freetime, I enjoy spending time with my kids, rock climbing, reading, hiking, etc.
