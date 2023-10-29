@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Ramsiii
+- 📖 I'm studying a Bachelor of Science in Software Engineering.
 - 👨‍💻 My current job title: Assoc. Content Analyst and Knowledge Engineer.
 - 🤖 My job: Structured Data Extraction using Xpath, Regular Expressions, and JavaScript as well as manual quality assurance testing.
-- 👀 My current learning roadmap includes Python, C, JavaScript, HTML, CSS, XPath, SQL, and other languages.
-- 🌱 I’m currently focusing mainly on learning JavaScript and Python outside of work.
+- 👀 My current learning roadmap includes Python, Java, JavaScript, HTML, CSS, XPath, SQL, and other languages.
+- 🌱 I’m currently focusing mainly on learning JavaScript and Python outside of work and soon Java in my studies.
 - 💞️ I’m looking to collaborate on projects integrating programming and microbiology or marketing.
-- 🧗‍♂️ In my freetime, I enjoy spending time with my kids, rock climbing, reading, hiking, etc.
+- 🧗‍♂️ In my free time, I enjoy spending time with my kids, rock climbing, reading, hiking, etc.
 - 📫 How to reach me: r rimkeit (at) h otmail (dot) c o m
