@@ -5,6 +5,5 @@
 - 👀 My current learning roadmap includes Python, Java, JavaScript, SQL, and other languages.
 - 🌱 I’m currently focusing mainly on learning JavaScript and Python outside of work and soon Java in my studies.
 - 💞️ I’m looking to collaborate on projects integrating programming and microbiology or marketing.
-- 👨‍🎓 Would you be my Python mentor?
 - 🧗‍♂️ In my free time, I enjoy spending time with my kids, rock climbing, reading, hiking, etc.
 - 📫 How to reach me: r rimkeit (at) h otmail (dot) c o m
