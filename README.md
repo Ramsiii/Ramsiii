@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ramsiii
-- 📖 I'm studying for a Bachelor of Science in Software Engineering at Western Governor's University.
-- 👨‍💻 My current job title: Assoc. Content Analyst and Knowledge Engineer.
-- 🤖 My job: Quality Assurance Testing, LLM Training, and Structured Data Extraction using Xpath, Regular Expressions, and JavaScript.
-- 👀 My current learning roadmap includes Python, Java, JavaScript, SQL, and other languages.
+- 📖 I'm studying a Bachelor of Science program in Software Engineering at Western Governor's University.
+- 👨‍💻 My current job title: Data Labeling Analyst.
+- 🤖 My job: Red Teaming, Quality Assurance Testing, LLM Training, and Structured Data Extraction using Xpath, Regular Expressions, and JavaScript.
+- 👀 My current learning roadmap includes Python, JavaScript, SQL, Java (up next), and other languages.
 - 🌱 I’m focusing mainly on learning JavaScript and Python outside of work and soon Java in my studies.
 - 💞️ I want to collaborate on projects integrating programming with microbiology or marketing.
 - 🧗‍♂️ In my free time, I enjoy spending time with my kids, rock climbing, reading, hiking, etc.
