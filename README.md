@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Ramsiii
-- 📖 I'm studying a Bachelor of Science program in Software Engineering at Western Governor's University.
-- 👨‍💻 My current job title: Data Labeling Analyst.
-- 🤖 My job: Red Teaming, Quality Assurance Testing, LLM Training, and Structured Data Extraction using Xpath, Regular Expressions, and JavaScript.
+- 📖 I'm studying a Bachelor of Science program in Software Engineering at Western Governors University.
+- 🗺 Latest project: World Map using Angular. See the world_map repository.
 - 👀 My current learning roadmap includes Python, JavaScript, SQL, Java (up next), and other languages.
-- 🌱 I’m focusing mainly on learning JavaScript and Python outside of work and soon Java in my studies.
+- 🌱 I’m focusing mainly on learning JavaScript and Python outside of work, and soon Java in my studies.
 - 💞️ I want to collaborate on projects integrating programming with microbiology or marketing.
+- 🤖 My professional experience: Red Teaming, QA Testing, LLM Training, and Structured Data Extraction (Xpath, Regex, and JavaScript).
+- 👨‍💻 My current job title: Data Labeling Analyst at Meta.
 - 🧗‍♂️ In my free time, I enjoy spending time with my kids, rock climbing, reading, hiking, etc.
 - 📫 How to reach me: r rimkeit (at) h otmail (dot) c o m
