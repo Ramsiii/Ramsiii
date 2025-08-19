@@ -4,7 +4,7 @@
 - 👀 My current learning roadmap includes Python, JavaScript, SQL, Java (up next), and other languages.
 - 🌱 I’m focusing mainly on learning JavaScript and Python outside of work, and soon Java in my studies.
 - 💞️ I want to collaborate on projects integrating programming with microbiology or marketing.
-- 🤖 My professional experience: Red Teaming, QA Testing, LLM Training, and Structured Data Extraction (Xpath, Regex, and JavaScript).
-- 👨‍💻 My current job title: Data Labeling Analyst at Meta.
+- 🤖 My professional experience: QA Testing, LLM Training, and Structured Data Extraction (Xpath, Regex, and JavaScript).
+- 👨‍💻 My current job title: Data Labeling Analyst at Meta (Red Teaming, QA Testing, LLM Training).
 - 🧗‍♂️ In my free time, I enjoy spending time with my kids, rock climbing, reading, hiking, etc.
 - 📫 How to reach me: r rimkeit (at) h otmail (dot) c o m
