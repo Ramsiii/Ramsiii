@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ramsiii
 - 📖 I'm studying a Bachelor of Science program in Software Engineering at Western Governors University.
-- 🗺 Latest project: World Map using Angular. See the world_map repository.
+- 🗺 Latest public project: World Map using Angular. See the world_map repository.
 - 👀 My current learning roadmap includes Python, JavaScript, SQL, Java (up next), and other languages.
 - 🌱 I’m focusing mainly on learning JavaScript and Python outside of work, and soon Java in my studies.
 - 💞️ I want to collaborate on projects integrating programming with microbiology or marketing.
