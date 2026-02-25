@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ramsiii
 - 📖 I'm studying a Bachelor of Science program in Software Engineering at Western Governors University.
-- 🌴 Latest public project: Taniti Tourism - https://ramsiii.github.io/taniti_tourism/home.html
+- 🌴 Latest public project: https://ramsiii.github.io/taniti_tourism/home.html
 - 👀 My current learning roadmap includes Python, JavaScript, SQL, Java (up next), and other languages.
 - 🌱 I’m focusing mainly on learning JavaScript and Python outside of work, and soon Java in my studies.
 - 💞️ I want to collaborate on projects integrating programming with microbiology or marketing.
