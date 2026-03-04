@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Ramsiii
+- 👋 Hi, I’m Ramsey
 - 📖 I'm studying a Bachelor of Science program in Software Engineering at Western Governors University.
-- 🌴 Latest public project: https://ramsiii.github.io/taniti_tourism/home.html
-- 👀 My current learning roadmap includes Python, JavaScript, SQL, Java (up next), and other languages.
-- 🌱 I’m focusing mainly on learning JavaScript and Python outside of work, and soon Java in my studies.
+- 🌴 Latest public project: A tourism website for a fictional island. https://ramsiii.github.io/taniti_tourism/home.html
+- 👀 Proficient in Python, SQL, HTML, CSS, JavaScript, and Angular. 
+- 🌱 Strongest computer language: Python. Currently learning Java.
+- 🗣️ Fluent in English (autochthonous Californian), German (16 years in Austria), & Spanish (Spanish-speaking father & 1 year in Mexico).
 - 💞️ I want to collaborate on projects integrating programming with microbiology or marketing.
-- 🤖 My professional experience: QA Testing, LLM Training, and Structured Data Extraction (Xpath, Regex, and JavaScript).
+- 🤖 My professional experience: AI Red Teaming, QA Testing, LLM Training, and Structured Data Extraction (Xpath, Regex, and JavaScript).
 - 👨‍💻 My current job title: Data Labeling Analyst at Meta (Red Teaming, QA Testing, LLM Training).
 - 🧗‍♂️ In my free time, I enjoy spending time with my kids, rock climbing, reading, hiking, etc.
-- 📫 How to reach me: r rimkeit (at) h otmail (dot) c o m
+- 📫 How to reach me: rrimkeit (at) hotmail (dot) c o m
