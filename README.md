@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramsey
 - 📖 I'm studying a Bachelor of Science program in Software Engineering at Western Governors University.
-- 🌴 Latest public project: A tourism website for a fictional island. https://ramsiii.github.io/taniti_tourism/home.html
+- 🌴 Latest public project: UX Design and development of a tourism website for a fictional island. https://ramsiii.github.io/taniti_tourism/home.html
 - 👀 Proficient in Python, SQL, HTML, CSS, JavaScript, and Angular. 
 - 🌱 Strongest computer language: Python. Currently learning Java.
 - 🗣️ Fluent in English (autochthonous Californian), German (16 years in Austria), & Spanish (Spanish-speaking father & 1 year in Mexico).
